@@ -143,7 +143,7 @@ Project Link: [https://github.com/OneEyeX/Python-Script-to-Download-Movies-for-f
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/OneEyeX/Python-Script-to-Download-Movies-for-free/issues
 [license-shield]: https://img.shields.io/github/license/OneEyeX/Python-Script-to-Download-Movies-for-free.svg?style=for-the-badge
-[license-url]: https://github.com/OneEyeX/Python-Script-to-Download-Movies-for-free/LICENSE.txt
+[license-url]: https://github.com/OneEyeX/Python-Script-to-Download-Movies-for-free/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chedly-chahed-a178a9196/
 [product-screenshot]: imgs/moviesScreen.png
